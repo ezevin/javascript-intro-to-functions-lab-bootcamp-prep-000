@@ -15,7 +15,7 @@ function sayHiToGrandma() {
   return "I can't hear you!"
 }
 function sayHiToGrandma() {
-  console.log ("HELLO")
+  console.log ('shout')
   return "YES INDEED!"
 }
 function sayHiToGrandma() {
