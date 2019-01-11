@@ -10,7 +10,7 @@ function logShout(string) {
 function logWhisper(string) {
   console.log('hello')
 }
-var 'hello' = hello
+var 'hello' = "I can't hear you!"
 
 function sayHiToGrandma(string) {
   if (string === 'hello') {
