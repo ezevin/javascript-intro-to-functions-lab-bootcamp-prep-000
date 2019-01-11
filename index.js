@@ -11,8 +11,10 @@ function logWhisper(string) {
   console.log('hello')
 }
 function sayHiToGrandma() {
-  console.log('hello') = 'I can\'t hear you!'
+  console.log('hello') 
+  return 'I can\'t hear you!'
 }
 function sayHiToGrandma(){
-  console.log('HELLO') = 'YES INDEED!'
+  console.log('HELLO') 
+  return 'YES INDEED!'
   }
