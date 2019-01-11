@@ -14,11 +14,12 @@ function sayHiToGrandma() {
   console.log ("hello")
   return "I can't hear you!"
 }
-function sayHiToGrandma() {
-  console.log ('shout')
+function sayHiToGrandma(shout) {
+  console.log ("HELLO")
   return "YES INDEED!"
 }
-function sayHiToGrandma("I love you, Grandma") {
+function sayHiToGrandma() {
+  console.log ("I love you, Grandma.")
   return "I love you, too."
 }
   
