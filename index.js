@@ -11,5 +11,3 @@ function logWhisper(string) {
   console.log('hello')
   return "I can't hear you!"
 }
-
-}
