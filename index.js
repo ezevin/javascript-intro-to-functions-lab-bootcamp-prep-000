@@ -9,16 +9,15 @@ function logShout(string) {
 }
 function logWhisper(string) {
   console.log('hello')
-  return "I can't hear you!"
 }
-function sayHiToGrandma() {
+function sayHiToGrandma(string) {
   console.log ("hello")
   return "I can't hear you!"
 }
-function sayHiToGrandma() {
+function sayHiToGrandma(string) {
   console.shout ("YES INDEED!")
 }
-function sayHiToGrandma() {
+function sayHiToGrandma(string) {
   console.log ("I love you, Grandma.")
   return "I love you, too."
 }
