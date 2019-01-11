@@ -6,7 +6,6 @@ return string.toLowerCase()
 }
 function logShout(string) {
  console.log('HELLO') 
- return "YES INDEED!"
 }
 function logWhisper(string) {
   console.log('hello')
